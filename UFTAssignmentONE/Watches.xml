@@ -1,0 +1,7 @@
+﻿<Properties>
+  <WatchEntry0 value="iCount" />
+  <WatchEntry1 value="LinkChildObj.Count" />
+  <WatchEntry2 value="LinkChildObj" />
+  <WatchEntry3 value="LinkChildObj.Count-1" />
+  <WatchEntry4 value="arrMobAccess" />
+</Properties>
